@@ -3,7 +3,8 @@ layout: post
 title: How to create github blog
 ---
 
-[깃허브 블로그 만들기](https://blog.naver.com/aimento/222648818253)
+![깃허브 블로그 만들기](https://blog.naver.com/aimento/222648818253)
+<img src="https://github.com/ellie-lee/ellie-lee.github.io/tree/master/images/avatar.png">
 1. 깃허브 가입하기: email 주소와 비밀번호, username을 기입하고 가입합니다.
 2. 잘 만들어진 테마를 찾아서 Fork 합니다.
 3. 테마 레포 이름을 **username.github.io**로 바꿉니다.
