@@ -5,7 +5,7 @@ title: How to create github blog
 
 [깃허브 블로그 만들기](https://blog.naver.com/aimento/222648818253)
 
-<img src="https://postfiles.pstatic.net/MjAyMjAyMTZfMjYg/MDAxNjQ0OTU3NTE3ODIx.8-JcqWbme6BOBlkHlFhRdVIlvsBjY_-U_t7zkntaG7Eg.fEYo6xXdXDhWJL6UuhyMvLUmHhLnRIq4_4BMkgknBLMg.PNG.aimento/avatar.png?type=w773">
+<img src="/assets/images/avatar.png">
 
 1. 깃허브 가입하기: email 주소와 비밀번호, username을 기입하고 가입합니다.
 2. 잘 만들어진 테마를 찾아서 Fork 합니다.
